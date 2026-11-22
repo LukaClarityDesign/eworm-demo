@@ -1,8 +1,10 @@
+© 2026 Bartosz Łuka / Luka Clarity Design. All rights reserved. Showcase only — no permission to copy, modify or redistribute.
+
 # E-worm
 
 **Status: in development.** Not published on Google Play (or any other store) yet.
 
-E-worm is an **offline Android reminder app** with three distinct characters who react to your tasks. It is a product of [Luka Clarity Design (L.C.D.)](https://github.com/LukaClarityDesign), designed and built by Bartosz Łuka.
+E-worm is an **offline Android reminder app** with three distinct characters who react to your tasks. It is a personal project of [Luka Clarity Design (L.C.D.)](https://github.com/LukaClarityDesign) — Bartosz Łuka’s own brand, not a registered company.
 
 This repository is a **portfolio slice**, not the complete Android Studio project: it shows the character writing, the theme API, and the automated checks for the line banks. The full application (UI, database, notifications, widget) is still being assembled.
 
@@ -76,7 +78,7 @@ python3 tests/test_character_texts.py
 
 All rights reserved © 2026 Bartosz Łuka / Luka Clarity Design (L.C.D.). See [LICENSE](LICENSE).
 
-An MIT licence for the **source code only** can be chosen later. Artwork and characters remain reserved either way. Until the licence file is replaced, no reuse rights are granted.
+This is a showcase only. There is no open-source licence and no permission to copy, modify or redistribute.
 
 ---
 
@@ -90,4 +92,4 @@ An MIT licence for the **source code only** can be chosen later. Artwork and cha
 
 Aplikacja ma działać **bez konta i bez serwera**. Zadania zostają na telefonie; w podstawowym obiegu nic nie jest wysyłane ani śledzone. To publiczne repo to wycinek na portfolio (teksty postaci, motyw, test), a nie pełny projekt z Android Studio.
 
-Grafiki bez znaku wodnego i zrzuty ekranu zostaną dodane po akceptacji. Licencja domyślnie: wszystkie prawa zastrzeżone; ewentualny MIT tylko na kod — do decyzji.
+Grafiki bez znaku wodnego i zrzuty ekranu zostaną dodane po akceptacji. Licencja: wszystkie prawa zastrzeżone; to wersja prezentacyjna, bez zgody na kopiowanie, zmianę ani rozpowszechnianie. L.C.D. to marka osobista / projekt własny, nie zarejestrowana firma.
